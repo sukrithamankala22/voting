@@ -11,7 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".KhammamDB"></activity>
+        <activity android:name=".WarangalDB"></activity>
+        <activity android:name=".SiddipetDB" />
+        <activity android:name=".NizamabadDB" />
+        <activity android:name=".MahabubnagarDB" />
+        <activity android:name=".KhammamDB" />
         <activity android:name=".KhammanDB" />
         <activity android:name=".HyderabadDB" />
         <activity android:name=".regionscreen" />

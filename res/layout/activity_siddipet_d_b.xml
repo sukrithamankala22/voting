@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".KhammamDB"
+    tools:context=".SiddipetDB"
     android:background="@drawable/miniproj_bg"
     >
     <TextView
@@ -225,7 +225,7 @@
         app:layout_constraintVertical_bias="0.864" />
 
     <Button
-        android:id="@+id/kha_farmer_vote"
+        android:id="@+id/sid_farmer_vote"
         android:layout_width="115dp"
         android:layout_height="30dp"
         android:fontFamily="sans-serif-smallcaps"
@@ -241,7 +241,7 @@
         app:layout_constraintVertical_bias="0.92" />
 
     <Button
-        android:id="@+id/kha_people_vote"
+        android:id="@+id/sid_people_vote"
         android:layout_width="115dp"
         android:layout_height="30dp"
         android:fontFamily="sans-serif-smallcaps"
@@ -257,7 +257,7 @@
         app:layout_constraintVertical_bias="0.92" />
 
     <Button
-        android:id="@+id/kha_leaf_vote"
+        android:id="@+id/sid_leaf_vote"
         android:layout_width="115dp"
         android:layout_height="30dp"
         android:background="#DFED1313"
@@ -273,7 +273,7 @@
         app:layout_constraintVertical_bias="0.457" />
 
     <Button
-        android:id="@+id/kha_dev_vote"
+        android:id="@+id/sid_dev_vote"
         android:layout_width="115dp"
         android:layout_height="30dp"
         android:fontFamily="sans-serif-smallcaps"
