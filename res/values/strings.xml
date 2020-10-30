@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Digital_voting</string>
+    <string-array name="region">
+        <item>Select your region</item>
+        <item>Hyderabad</item>
+        <item>Khammam</item>
+        <item>Mahabubnagar</item>
+        <item>Nizamabad</item>
+        <item>Siddipet</item>
+        <item>Warangal</item>
+    </string-array>
+</resources>
